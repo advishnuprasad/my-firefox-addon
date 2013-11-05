@@ -1,4 +1,4 @@
-my-firefox-addon
+zazen-addon
 ================
 
 Firefox add-on for basic learning
